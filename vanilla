@@ -334,17 +334,29 @@ Zoot NoAir true
 
 # toggles
 
+AbortBreaking toggle true
 AntiCactus toggle true
 Antihunger toggle true
+AutoBow toggle true
+Autoarmor toggle true
+Autopot toggle true
+Autoweapon toggle true
 Criticals toggle true
+FastBow toggle true
 FastClimb toggle true
 FastUse toggle true
+Faststairs toggle true
+Ghost toggle true
 Hitbox toggle true
+Inventorymove toggle true
 Liquidwalk toggle true
+MoreCarry toggle true
+MultiAction toggle true
 NoFall toggle true
 NoJumpDelay toggle true
 NoSlow toggle true
 NoWeb toggle true
+NoslowBreak toggle true
 PerfectHorseJump toggle true
 PingSpoof toggle false
 Regen toggle true
