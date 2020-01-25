@@ -1,10 +1,3 @@
-AMotionFly SpoofGround false
-AMotionFly StaticMotionY true
-AMotionFly FallSpeed 0.0
-AMotionFly InitSpeed 1.5
-AMotionFly ReduceSpeed 0.05
-AMotionFly MinSpeed 0.2
-AMotionFly Type Motion
 Aimbot Range 5.28
 Aimbot TurnSpeed 83.82
 Aimbot FOV 91.84
@@ -166,15 +159,6 @@ InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 10
-InventoryCleaner SortSlot-1 Sword
-InventoryCleaner SortSlot-2 Block
-InventoryCleaner SortSlot-3 None
-InventoryCleaner SortSlot-4 None
-InventoryCleaner SortSlot-5 None
-InventoryCleaner SortSlot-6 None
-InventoryCleaner SortSlot-7 Food
-InventoryCleaner SortSlot-8 Food
-InventoryCleaner SortSlot-9 Block
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks true
 ItemTeleport Mode New
@@ -234,15 +218,8 @@ NoWeb Mode None
 Nuker Radius 2.81
 Nuker ThroughWalls false
 Phase Mode Vanilla
-PingSpoof MaxDelay 4910
-PingSpoof MinDelay 0
-Reach CombatReach 7.0
-Reach BuildReach 150.0
-Regen Mode Vanilla
-Regen Health 18
-Regen Food 18
-Regen Speed 100
-Regen NoAir false
+PingSpoof MaxDelay 6000
+PingSpoof MinDelay 1000
 ReverseStep Motion 1.0
 SafeWalk AirSafe false
 Scaffold Mode Normal
@@ -270,13 +247,6 @@ Scaffold AirSafe false
 Scaffold Counter true
 Scaffold Mark true
 ServerCrasher Mode WorldEdit
-SkinDerp Delay 0
-SkinDerp Hat true
-SkinDerp Jacket true
-SkinDerp LeftPants true
-SkinDerp RightPants true
-SkinDerp LeftSleeve true
-SkinDerp RightSleeve true
 SlimeJump Motion 0.45
 SlimeJump Mode Set
 Sneak Mode Legit
@@ -288,18 +258,14 @@ Speed CustomTimer 1.0
 Speed CustomStrafe false
 Speed CustomResetXZ false
 Speed CustomResetY false
-Speed AAC-PortLength 1.0
-Speed AACGround-Timer 3.0
-Speed CubeCraft-PortLength 1.97
-Speed MineplexGround-Speed 0.94
 Sprint AllDirections false
 Sprint Blindness false
 Sprint Food false
 Sprint CheckServerSide true
-Sprint CheckServerSideOnlyGround false
+Sprint CheckServerSideOnlyGround true
 Step Mode Jump
-Step Height 1.01
-Step Delay 0
+Step Height 1
+Step Delay 100
 TNTBlock Fuse 10
 TNTBlock Range 9.0
 TNTBlock AutoSword true
@@ -343,3 +309,5 @@ WaterSpeed Speed 1.5
 Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
+
+chat warning? this made isnot for latest
