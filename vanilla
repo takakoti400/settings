@@ -1,3 +1,5 @@
+# config
+
 AtAllProvider MaxDelay 0
 AtAllProvider MinDelay 0
 AtAllProvider Retry true
@@ -330,6 +332,27 @@ Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir true
 
+# toggles
 
-chat Step = infinite steping(used NCP)
-chat
+AntiCactus toggle true
+Antihunger toggle true
+Criticals toggle true
+FastClimb toggle true
+FastUse toggle true
+Hitbox toggle true
+Liquidwalk toggle true
+NoFall toggle true
+NoJumpDelay toggle true
+NoSlow toggle true
+NoWeb toggle true
+PerfectHorseJump toggle true
+PingSpoof toggle false
+Regen toggle true
+Sprint toggle true
+Step toggle true
+Step toggle true
+SuperKnockback toggle true
+VehicleOneHit toggle true
+Velocity toggle true
+Waterspeed toggle true
+Zoot toggle true
