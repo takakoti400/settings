@@ -1,25 +1,3 @@
-Aimbot Range 4.4
-Aimbot TurnSpeed 180.0
-Aimbot FOV 180.0
-Aimbot Center false
-Aimbot Lock true
-Aimbot OnClick false
-Aimbot Jitter false
-AntiBot Tab false
-AntiBot TabMode Contains
-AntiBot EntityID false
-AntiBot Color false
-AntiBot LivingTime false
-AntiBot Ground false
-AntiBot Air false
-AntiBot InvaildGround false
-AntiBot Swing false
-AntiBot Health false
-AntiBot Derp false
-AntiBot WasInvisible false
-AntiBot Armor false
-AntiBot Ping false
-AntiBot NeedHit false
 AtAllProvider MaxDelay 0
 AtAllProvider MinDelay 0
 AtAllProvider Retry true
@@ -344,10 +322,6 @@ Trigger MinCPS 20
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-Velocity ReverseStrength 0.99
-Velocity Reverse2Strength 0.05
-Velocity AACPushXZReducer 2.0
-Velocity AACPushYReducer false
 WallClimb Mode CheckerClimb
 WallClimb ClipMode Fast
 WallClimb CheckerClimbMotion 0.65
@@ -355,3 +329,7 @@ WaterSpeed Speed 1.5
 Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir true
+
+
+chat Step = infinite steping(used NCP)
+chat
