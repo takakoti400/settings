@@ -29,10 +29,6 @@ Speed CustomTimer 0.98
 Speed CustomStrafe true
 Speed CustomResetXZ false
 Speed CustomResetY false
-Speed AAC-PortLength 1.0
-Speed AACGround-Timer 3.0
-Speed CubeCraft-PortLength 10.0
-Speed MineplexGround-Speed 0.96
 Sprint AllDirections true
 Sprint Blindness true
 Sprint Food true
