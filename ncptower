@@ -7,12 +7,5 @@ Tower Rotations true
 Tower KeepRotation false
 Tower OnJump false
 Tower Timer 1.0
-Tower JumpMotion 0.42
-Tower JumpDelay 0
-Tower ConstantMotion 0.38
+Tower ConstantMotion 0.42
 Tower ConstantMotionJumpGround 1.0
-Tower TeleportHeight 1.0
-Tower TeleportDelay 3
-Tower TeleportGround true
-Tower TeleportNoMotion true
-Tower Counter true
