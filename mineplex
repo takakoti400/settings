@@ -167,15 +167,6 @@ InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 10
-InventoryCleaner SortSlot-1 Sword
-InventoryCleaner SortSlot-2 Block
-InventoryCleaner SortSlot-3 Block
-InventoryCleaner SortSlot-4 Gapple
-InventoryCleaner SortSlot-5 Water
-InventoryCleaner SortSlot-6 Pearl
-InventoryCleaner SortSlot-7 Pickaxe
-InventoryCleaner SortSlot-8 Block
-InventoryCleaner SortSlot-9 Axe
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
