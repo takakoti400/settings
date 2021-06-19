@@ -56,7 +56,7 @@ ConsoleSpammer Mode Payload
 ConsoleSpammer Delay 1000
 Criticals Mode Packet
 Criticals Delay 0
-Criticals HurtTime 10
+Criticals HurtTime 9
 chat this is working. but it makes flagging.. hm(You need enable AntiNoCritical.)
 Damage Mode NCP
 Damage Damage 1
@@ -133,6 +133,7 @@ KillAura FakeSwing false
 KillAura NoInvAttack false
 KillAura NoInvDelay 100
 KillAura LimitedMultiTargets 2
+chat i think... 3 is working
 KillAuraPatch RotationsPatch true
 KillAuraPatch GCDSensitivity 0
 KillAuraPatch AutoBlockPatch true
@@ -166,9 +167,9 @@ NoWeb Mode AAC
 Phase Mode Mineplex
 Reach CombatReach 3.5
 Reach BuildReach 5.0
-Scaffold Mode Normal
-Scaffold MaxDelay 64
-Scaffold MinDelay 53
+Scaffold Mode Expand
+Scaffold MaxDelay 180
+Scaffold MinDelay 30
 Scaffold PlaceDelay true
 Scaffold AutoBlock Pick
 Scaffold Sprint false
@@ -181,8 +182,7 @@ Scaffold BlocksToEagle 0
 Scaffold EagleEdgeDistance 0.1
 Scaffold ExpandLength 1
 Scaffold Strafe Off
-Scaffold Rotations true
-Scaffold SilentRotation true
+Scaffold Rotations false
 Scaffold KeepRotation false
 Scaffold KeepRotationLength 0
 Scaffold XYZSearch AutoCenter
@@ -190,13 +190,10 @@ Scaffold xzRange 0.0
 Scaffold yRange 0.7
 Scaffold MinDist 0.0
 Scaffold SearchAccuracy 9
-Scaffold MaxTurnSpeed 180.0
-Scaffold MinTurnSpeed 180.0
 Scaffold Zitter Off
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1
 Scaffold Slow false
-Scaffold SlowSpeed 0.79
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
@@ -242,25 +239,16 @@ Tower Mode Packet
 Tower AutoBlock Pick
 Tower Swing false
 Tower StopWhenBlockAbove true
-Tower Rotations true
-Tower KeepRotation true
+Tower Rotations false
 Tower OnJump true
 Tower Matrix false
 Tower PlaceTiming Post
-Tower Timer 5.5
+Tower Timer 20
 chat i found Faster is better bypassing! lol it like old CubeCraft server xddd
-Tower JumpMotion 0.4
-Tower JumpDelay 0
-Tower ConstantMotion 0.42
-Tower ConstantMotionJumpGround 1.0
-Tower TeleportHeight 1.25
-Tower TeleportDelay 20
-Tower TeleportGround true
-Tower TeleportNoMotion false
 Velocity Horizontal 0.59
 Velocity Vertical 0.4
-Velocity Mode SmoothReverse
-chat or Simple. this is anony. it says 'you using Speed(BHop)!'
+Velocity Mode Simple
+chat or (Smooth)Reverse. this is anony. it says 'you using Speed(BHop)!'
 Velocity ReverseStrength 0.95
 Velocity SmoothReverseStrength 0.15
 Velocity AACPushXZReducer 3.0
