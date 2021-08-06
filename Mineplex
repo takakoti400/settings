@@ -296,16 +296,23 @@ tk400sAdditonalModule ClimbSpeed Off
 
 
 #Toggle
+AbortBreaking toggle true
 AntiBot toggle true
 AutoArmor toggle true
+AutoBow toggle true
+AutoTool toggle true
+AutoWeapon toggle true
 ChestStealer toggle true
+CivBreak toggle true
 Criticals toggle true
+FastBreak toggle true
 FastUse toggle true
 Fucker toggle true
 InventoryMove toggle true
 KillAura toggle true
 KillAuraPatch toggle true
 MidClick toggle true
+MultiActions toggle true
 NCPStep toggle true
 NoFall toggle true
 NoRotateSet toggle true
@@ -314,19 +321,16 @@ PlexAntiBot toggle true
 ReverseStep toggle true
 Sprint toggle true
 Velocity toggle true
-CivBreak toggle true
-MultiActions toggle true
+
+#Optionaly Modules.
+FastClimb toggle true
+#working. but it's suppiciolity. xd
+ModuleManager toggle true
+Regen toggle true
 SuperKnock toggle true
 SuperKnockback toggle true
-FastBreak toggle true
-AutoBow toggle true
-AutoRespawn toggle true
-AutoTool toggle true
-AutoWeapon toggle true
-AbortBreaking toggle true
+tk400sAdditonalModule toggle true
 
-
-FileSpammer toggle false
 HypixelGameChange toggle false
 Scaffold toggle false
 Speed toggle false
@@ -336,92 +340,88 @@ Tower toggle false
 #=>Disable Modules for reasons<=#
 
 #Optionaly Modules.
-unchat §4Disable
 WallClimb toggle false
-
-unchat §aEnable
-ModuleManager toggle true
-tk400sAdditonalModule toggle true
-Regen toggle true
-FastClimb toggle true
-#working. but it's suppiciolity. xd
+AutoRespawn toggle false
+FileSpammer toggle false
 
 #optionaly but im not using (i think you can safe to enable it)
-TowerScaffoldz toggle false
-TNTBlock toggle false
-Sneak toggle false
-RotationSprint toggle false
-PingSpoof toggle false
-PerfectHorseJump toggle false
-StepHelper toggle false
-NoJumpDelay toggle false
-NoSlowBreak toggle false
-NoPitchLimit toggle false
-SafeWalk toggle false
-NoFriends toggle false
+AntiAFK toggle false
+AutoBreak toggle false
+BowAimbot toggle false
+ChestAura toggle false
+Clip toggle false
+Damage toggle false
+Derp toggle false
+Eagle toggle false
+FastBow toggle false
+unchat you needed delayed shoot
+FastStairs toggle false
+Freeze toggle false
+Ignite toggle false
+InventoryCleaner toggle false
+KeepAlive toggle false
+LegitPingSpoof toggle false
 LiquidWalk toggle false
 Liquids toggle false
 MoreCarry toggle false
-InventoryCleaner toggle false
-Ignite toggle false
-KeepAlive toggle false
-Freeze toggle false
-Eagle toggle false
-Clip toggle false
-FastBow toggle false
-unchat you needed delayed shoot
-ChestAura toggle false
-BowAimbot toggle false
-AutoBreak toggle false
-AntiAFK toggle false
-FastStairs toggle false
+NoFriends toggle false
+NoJumpDelay toggle false
+NoPitchLimit toggle false
+NoSlowBreak toggle false
 Parkour toggle false
+PerfectHorseJump toggle false
+PingSpoof toggle false
+RotationSprint toggle false
+SafeWalk toggle false
 SkinDerp toggle false
-LegitPingSpoof toggle false
 SlimeJump toggle false
-Damage toggle false
-Derp toggle false
+Sneak toggle false
+StepHelper toggle false
+TNTBlock toggle false
+TowerScaffoldz toggle false
 
 #im not using and untsted
-Clipper toggle false
+AntiCactus toggle false
+AtAllProvider toggle false
+AutoFish toggle false
+AutoGapple toggle false
+AutoLeave toggle false
 AutoPot toggle false
 AutoSoup toggle false
 AutoWalk toggle false
-AntiCactus toggle false
-AutoFish toggle false
-AutoLeave toggle false
-AtAllProvider toggle false
-AutoGapple toggle false
+Clipper toggle false
 
 #Not Working
-TeleportHit toggle false
-Teams toggle false
-#recommanded using MidClick, than ModuleManager.
-Phase toggle false
-LongJump toggle false
-HitBox toggle false
-HighJump toggle false
-GodMode toggle false
-ConsoleSpammer toggle false
-unchat only kick
-ForceUnicodeChat toggle false
-FastPlace toggle false
-BugUp toggle false
 AirJump toggle false
 Blink toggle false
 unchat it working only lot of bit.
-NoSlowBreak toggle false
-Timer toggle false
+BugUp toggle false
+ConsoleSpammer toggle false
+unchat only kick
+FastPlace toggle false
 Fly toggle false
+ForceUnicodeChat toggle false
 Ghost toggle false
 #i think not working
 GhostHand toggle false
 #worked but you need..?
+GodMode toggle false
+HighJump toggle false
+HitBox toggle false
 KeepContainer toggle false
 LadderJump toggle false
+LongJump toggle false
 NoClip toggle false
-Teleport toggle false
+NoSlowBreak toggle false
+Phase toggle false
 ServerCrasher toggle false
+Teams toggle false
+#recommanded using MidClick, than ModuleManager.
+Teleport toggle false
+TeleportHit toggle false
+Timer toggle false
+
+
 
 #Banned Modules
 Strafe toggle false
@@ -454,3 +454,5 @@ unchat Czhechek's Scripts https://github.com/CzechHek/Core
 unchat KAPatch: https://github.com/CzechHek/Core/blob/master/Scripts/KillAuraPatch.js
 unchat 
 unchat MM: https://github.com/takakoti400/zatuyouko/blob/master/Module%20Manager.js
+unchat NCPStep: https://pastebin.com/GNPvgbW5
+unchat (idk Source of download site)
