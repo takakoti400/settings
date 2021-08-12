@@ -278,8 +278,8 @@ Tower JumpMotion 0.4
 Tower JumpDelay 0
 Tower ConstantMotion 0.42
 Tower ConstantMotionJumpGround 1.0
-Velocity Horizontal 0.5
-Velocity Vertical 1.0
+Velocity Horizontal 0.25
+Velocity Vertical 0
 Velocity Mode Simple
 Velocity AACPushXZReducer 3.0
 Velocity AACPushYReducer true
@@ -379,6 +379,7 @@ Sneak toggle false
 StepHelper toggle false
 TNTBlock toggle false
 TowerScaffoldz toggle false
+ConsoleSpammer toggle false
 
 #im not using and untsted
 AntiCactus toggle false
@@ -396,8 +397,6 @@ AirJump toggle false
 Blink toggle false
 unchat it working only lot of bit.
 BugUp toggle false
-ConsoleSpammer toggle false
-unchat only kick
 FastPlace toggle false
 Fly toggle false
 ForceUnicodeChat toggle false
@@ -420,7 +419,6 @@ Teams toggle false
 Teleport toggle false
 TeleportHit toggle false
 Timer toggle false
-
 
 
 #Banned Modules
@@ -456,3 +454,7 @@ unchat
 unchat MM: https://github.com/takakoti400/zatuyouko/blob/master/Module%20Manager.js
 unchat NCPStep: https://pastebin.com/GNPvgbW5
 unchat (idk Source of download site)
+unchat 
+unchat Thank you for using this config.
+unchat and recommanded seeing this config.
+unchat Speed(Velocity?) is ungood.
